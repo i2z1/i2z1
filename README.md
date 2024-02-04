@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Ivan
 
 <!--
 **i2z1/i2z1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
