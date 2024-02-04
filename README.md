@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 -   🤟 Data and BigData Engineer: Clickhouse, Arrow, DuckDB, PostgreSQL
 -   👑 Automation: GitlabCI, Github Actions, Ansible, Bash
 -   🐧 Linux and Open Source enthusiast
+-   Researcher and DataVis sometimes
