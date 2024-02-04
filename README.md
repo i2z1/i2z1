@@ -20,7 +20,6 @@ Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-ba
 Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-```{=html}
 <!--
 **i2z1/i2z1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+
 -   💪 Fullstack R developer: Tidyverse, Shiny, Quarto, Shinyserver,
     Shinyproxy, Docker
 -   🤟 Data and BigData Engineer: Clickhouse, Arrow, DuckDB, PostgreSQL
