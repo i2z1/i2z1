@@ -39,5 +39,5 @@ Here are some ideas to get you started:
     Shinyproxy, Docker
 -   🤟 Data and BigData Engineer: Clickhouse, Arrow, DuckDB, PostgreSQL
 -   👑 Automation: GitlabCI, Github Actions, Ansible, Bash
--   🐧 Linux and Open Source enthusiast
--   Researcher and DataVis sometimes
+-   🐧 Linux and Open Source enthusiast -- Arch, Ubuntu, KDE
+-   Researcher and DataVis sometimes -- https://i2z1.ddslab.ru
